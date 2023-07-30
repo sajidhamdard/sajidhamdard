@@ -3,7 +3,7 @@
 ## About Me
 I'm thrilled to have you here, and I'm excited to share my passion for JavaScript, Java, Node.js, and Open Source with you. Let me take a moment to introduce myself and give you a glimpse of what you can expect from this GitHub repository.
 
-My name is [Sajid Ali Khan], and I'm a passionate developer with a strong affinity for JavaScript, Java, and Node.js. I firmly believe that technology should be accessible to everyone, and knowledge should be shared freely. My ultimate goal is to help every student and professional in need to excel in their programming journey.
+My name is Sajid Ali Khan, and I'm a passionate developer with a strong affinity for JavaScript, Java, and Node.js. I firmly believe that technology should be accessible to everyone, and knowledge should be shared freely. My ultimate goal is to help every student and professional in need to excel in their programming journey.
 
 ## What You'll Find Here
 In this repository, you'll find a collection of projects, code snippets, and resources related to JavaScript, Java, Node.js, and more. I'll be sharing everything from beginner-friendly tutorials to advanced concepts, as well as some cool open-source projects you can contribute to.
@@ -26,4 +26,4 @@ Thank you for joining me on this coding adventure! I'm excited to see how we can
 Let's make this GitHub repository a hub of collaboration, knowledge sharing, and innovation! Happy coding!
 
 Best regards,
-[Sajid Ali Khan]
+Sajid Ali Khan
